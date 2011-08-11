@@ -19,9 +19,10 @@ requires:
   Data::Format::Pretty::HTML: 0
   Data::Format::Pretty::JSON: 0
   Data::Format::Pretty::PHP: 0
+  Data::Format::Pretty::PHPSerialization: 0
   Data::Format::Pretty::Perl: 0
   Data::Format::Pretty::YAML: 0
 resources:
   homepage: http://search.cpan.org/dist/Task-Data-Format-Pretty/
   repository: http://github.com/sharyanto/perl-Task-Data-Format-Pretty
-version: 0.02
+version: 0.03

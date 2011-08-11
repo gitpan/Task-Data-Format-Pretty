@@ -11,7 +11,7 @@ Task::Data::Format::Pretty - Install Data::Format::Pretty and all known formatte
 
 =head1 VERSION
 
-version 0.02
+version 0.03
 
 =head1 DESCRIPTION
 
@@ -33,6 +33,8 @@ formatter modules.
 =head3 L<Data::Format::Pretty::Perl>
 
 =head3 L<Data::Format::Pretty::PHP>
+
+=head3 L<Data::Format::Pretty::PHPSerialization>
 
 =head3 L<Data::Format::Pretty::YAML>
 
