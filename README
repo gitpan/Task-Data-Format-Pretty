@@ -3,7 +3,7 @@ NAME
     formatters
 
 VERSION
-    version 0.01
+    version 0.02
 
 DESCRIPTION
     This task will install Data::Format::Pretty and all
@@ -15,8 +15,9 @@ TASK CONTENTS
    Data::Format::Pretty::Console
    Data::Format::Pretty::HTML
    Data::Format::Pretty::JSON
-   Data::Format::Pretty::YAML
+   Data::Format::Pretty::Perl
    Data::Format::Pretty::PHP
+   Data::Format::Pretty::YAML
 AUTHOR
     Steven Haryanto <stevenharyanto@gmail.com>
 
