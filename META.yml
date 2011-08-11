@@ -1,0 +1,26 @@
+---
+abstract: 'Install Data::Format::Pretty and all known formatters'
+author:
+  - 'Steven Haryanto <stevenharyanto@gmail.com>'
+build_requires:
+  Module::Build: 0.3601
+configure_requires:
+  Module::Build: 0.3601
+dynamic_config: 0
+generated_by: 'Dist::Zilla version 4.200007, CPAN::Meta::Converter version 2.110930'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Data-Format-Pretty
+requires:
+  Data::Format::Pretty: 0
+  Data::Format::Pretty::Console: 0
+  Data::Format::Pretty::HTML: 0
+  Data::Format::Pretty::JSON: 0
+  Data::Format::Pretty::PHP: 0
+  Data::Format::Pretty::YAML: 0
+resources:
+  homepage: http://search.cpan.org/dist/Task-Data-Format-Pretty/
+  repository: http://github.com/sharyanto/perl-Task-Data-Format-Pretty
+version: 0.01

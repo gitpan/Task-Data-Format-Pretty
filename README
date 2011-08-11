@@ -1,0 +1,28 @@
+NAME
+    Task::Data::Format::Pretty - Install Data::Format::Pretty and all known
+    formatters
+
+VERSION
+    version 0.01
+
+DESCRIPTION
+    This task will install Data::Format::Pretty and all
+    Data::Format::Pretty::* formatter modules.
+
+TASK CONTENTS
+  Included modules
+   Data::Format::Pretty
+   Data::Format::Pretty::Console
+   Data::Format::Pretty::HTML
+   Data::Format::Pretty::JSON
+   Data::Format::Pretty::YAML
+   Data::Format::Pretty::PHP
+AUTHOR
+    Steven Haryanto <stevenharyanto@gmail.com>
+
+COPYRIGHT AND LICENSE
+    This software is copyright (c) 2011 by Steven Haryanto.
+
+    This is free software; you can redistribute it and/or modify it under
+    the same terms as the Perl 5 programming language system itself.
+
