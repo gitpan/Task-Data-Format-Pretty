@@ -17,7 +17,7 @@ my %module_build_args = (
     'Steven Haryanto <stevenharyanto@gmail.com>'
   ],
   'dist_name' => 'Task-Data-Format-Pretty',
-  'dist_version' => '0.03',
+  'dist_version' => '0.04',
   'license' => 'perl',
   'module_name' => 'Task::Data::Format::Pretty',
   'recommends' => {},
@@ -30,6 +30,7 @@ my %module_build_args = (
     'Data::Format::Pretty::PHP' => '0',
     'Data::Format::Pretty::PHPSerialization' => '0',
     'Data::Format::Pretty::Perl' => '0',
+    'Data::Format::Pretty::Ruby' => '0',
     'Data::Format::Pretty::YAML' => '0'
   },
   'script_files' => []
